@@ -1,0 +1,12 @@
+body {
+    width: 100%;
+}
+
+hr {
+    width: 40%;
+    float: left;
+}
+
+h2 {
+    font-size: large;
+}
