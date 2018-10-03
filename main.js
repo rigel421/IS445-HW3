@@ -74,7 +74,8 @@ else
 binArray = [];
 
 genArray.forEach(function(element){
-    binArray.push((element).toString(2));
+    elem1 = Math.abs(element)
+    binArray.push((elem1).toString(2));
 })
 
 if (document.getElementById("fourth").innerHTML != err)
